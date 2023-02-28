@@ -1,0 +1,11 @@
+{
+  "name": "Profil-Olusturucu",
+  "version": "1.0.0",
+  "description": "Profil bilgilerini oluştur ve dosyaya yazdır",
+  "main": "index.js",
+  "author": "formalite",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.2.0"
+  }
+}
